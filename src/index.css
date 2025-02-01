@@ -321,3 +321,10 @@ main {
   align-self: flex-start;
   min-width: 2rem;
 }
+button{
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+  color: #0f5132;
+  font-size: 1.5rem;
+}
